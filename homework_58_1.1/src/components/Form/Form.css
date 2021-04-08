@@ -1,0 +1,10 @@
+.form_wrapper input {
+    width: 343px;
+    padding: 5px;
+    outline: none;
+}
+.form_wrapper button{
+    padding: 5px 20px;
+    text-transform: uppercase;
+    margin-left: 10px;
+}

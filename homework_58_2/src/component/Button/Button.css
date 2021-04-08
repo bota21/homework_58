@@ -1,0 +1,18 @@
+.joke_btn{
+    padding: 10px 20px;
+    color: rgb(88, 88, 88);
+    text-transform: uppercase;
+    background: lightblue;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 18px;
+    box-shadow: 1px 1px 1px rgb(122, 120, 120);
+  }
+  .joke_btn:hover{
+    background:  rgb(154, 202, 218);
+  }
+  .joke_btn:active{
+    background: rgb(154, 202, 218);
+    box-shadow: inset 1px 1px 1px rgb(122, 120, 120);;
+  }
